@@ -49,8 +49,9 @@ collections:
             name: shipping
             widget: list
             fields:
-              - {label: Name, name: label, widget: string}
-              - {label: 'Cost', name: 'value', widget: 'number'}
+              - {label: 'Type', name: 'label', widget: 'string'}
+              - {label: 'Name', name: 'value', widget: 'string'}
+              - {label: 'Cost', name: 'cost', widget: 'number'}
 
       - label: "Announcements"
         name: "announcements"
