@@ -1,0 +1,12 @@
+{
+  "package": [
+    {
+      "name": "Regular New Normal A",
+      "id": "PACK-0001",
+      "desc": "+ P8,000 worth discount voucher",
+      "price": 10500,
+      "unit": "package",
+      "pic": "/img/pack_reg_a.jpg"
+    }
+  ]
+}
