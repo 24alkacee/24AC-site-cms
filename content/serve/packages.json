@@ -2,7 +2,7 @@
   "package": [
     {
       "name": "Regular New Normal A",
-      "id": "PACK-0001",
+      "id": "PACK0001",
       "desc": "+ P8,000 worth discount voucher",
       "price": 10500,
       "unit": "package",
@@ -10,10 +10,34 @@
     },
     {
       "name": "Starter New Normal A",
-      "id": "PACK-0002",
+      "id": "PACK0002",
       "desc": "Genuine quality, Best seller",
       "price": 3500,
       "pic": "/img/pack_start_a.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Regular New Normal B",
+      "id": "PACK0003",
+      "desc": "+ P8,000 worth discount voucher",
+      "price": 12750,
+      "pic": "/img/pack_reg_b.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Regular New Normal C",
+      "id": "PACK0004",
+      "desc": "+ P8,000 worth discount voucher",
+      "price": 12750,
+      "pic": "/img/pack_reg_c.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Starter New Normal C",
+      "id": "PACK0005",
+      "desc": "Genuine quality, Best seller",
+      "price": 4500,
+      "pic": "/img/pack_start_c.jpg",
       "unit": "package"
     }
   ]
