@@ -19,10 +19,38 @@ collections:
             name: product
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: 'Description', name: 'description', widget: 'string'}
+              - {label: Name, name: name, widget: 'string'}
+              - {label: ID, name: id, widget: 'string'}
+              - {label: 'Description', name: 'desc', widget: 'text'}
               - {label: 'Price', name: 'price', widget: 'number'}
-              - {label: 'Featured Image', name: 'image', widget: 'image'}
+              - {label: 'Picture', name: 'pic', widget: 'image'}
+              - {label: 'Unit', name: 'unit', widget: 'string'}
+
+      - label: "Packages List"
+        name: "packages-list"
+        file: "content/serve/packages.json"
+        fields:
+          - label: Package
+            name: package
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: 'string'}
+              - {label: ID, name: id, widget: 'string'}
+              - {label: 'Description', name: 'desc', widget: 'text'}
+              - {label: 'Price', name: 'price', widget: 'number'}
+              - {label: 'Picture', name: 'pic', widget: 'image'}
+              - {label: 'Unit', name: 'unit', widget: 'string'}
+      
+      - label: "Shipping Options"
+        name: "shipping"
+        file: "content/serve/shipping.json"
+        fields:
+          - label: Shipping
+            name: shipping
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: 'Cost', name: 'cost', widget: 'number'}
 
       - label: "Announcements"
         name: "announcements"
@@ -32,7 +60,7 @@ collections:
             name: post
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: 'Description', name: 'description', widget: 'string'}
+              - {label: Title, name: title, widget: string}
+              - {label: 'Message', name: 'message', widget: 'string'}
               - {label: 'Date', name: 'date', widget: 'date'}
               
