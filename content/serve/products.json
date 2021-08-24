@@ -1,0 +1,12 @@
+{
+  "product": [
+    {
+      "name": "24 Alkaline C",
+      "id": "ALKA-0001",
+      "desc": "Ang 24 Alkaline C ay makakapagbigay ng iba't ibang benepisyo sa ating katawan.",
+      "price": 795,
+      "pic": "/img/alka-box.jpg",
+      "unit": "box"
+    }
+  ]
+}
