@@ -2,15 +2,18 @@
   "shipping": [
     {
       "label": "Provincial",
-      "value": 0
+      "value": "Provincial",
+      "cost": 0
     },
     {
       "label": "Metro Manila",
-      "value": 0
+      "value": "Metro Manila",
+      "cost": 0
     },
     {
       "label": "International",
-      "value": 0
+      "value": "International",
+      "cost": 0
     }
   ]
 }
