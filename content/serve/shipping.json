@@ -1,0 +1,16 @@
+{
+  "shipping": [
+    {
+      "name": "Provincial",
+      "cost": 0
+    },
+    {
+      "name": "Metro Manila",
+      "cost": 0
+    },
+    {
+      "name": "International",
+      "cost": 0
+    }
+  ]
+}
