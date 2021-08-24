@@ -1,0 +1,16 @@
+{
+  "payment": [
+    {
+      "label": "COD",
+      "value": "COD"
+    },
+    {
+      "label": "GCash",
+      "value": "GCash"
+    },
+    {
+      "label": "PayPal",
+      "value": "PayPal"
+    }
+  ]
+}
