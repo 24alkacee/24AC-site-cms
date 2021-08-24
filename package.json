@@ -1,0 +1,25 @@
+{
+  "name": "eureka_cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "dev": "python3 -m http.server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-vqa/eureka-cms.git"
+  },
+  "author": "Neil Van Alino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-vqa/eureka-cms/issues"
+  },
+  "homepage": "https://github.com/neil-vqa/eureka-cms#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "marked": "^1.2.3"
+  }
+}
