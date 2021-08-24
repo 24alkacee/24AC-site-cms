@@ -47,6 +47,22 @@
       "price": 295,
       "pic": "/img/24-thirty-02.jpg",
       "unit": "box"
+    },
+    {
+      "name": "Cafe",
+      "id": "ALKA0007",
+      "desc": "Instant coffee drink mix with Ashitaba & Ganoderma extracts.",
+      "price": 315,
+      "pic": "/img/24-cafe-02.jpg",
+      "unit": "box"
+    },
+    {
+      "name": "Choco",
+      "id": "ALKA0008",
+      "desc": "Instant cocoa drink mix with Ashitaba & Chlorella extracts.",
+      "price": 315,
+      "pic": "/img/24-choco-02.jpg",
+      "unit": "box"
     }
   ]
 }
