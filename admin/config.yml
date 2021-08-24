@@ -52,6 +52,17 @@ collections:
               - {label: 'Type', name: 'label', widget: 'string'}
               - {label: 'Name', name: 'value', widget: 'string'}
               - {label: 'Cost', name: 'cost', widget: 'number'}
+              
+      - label: "Payment Options"
+        name: "payment"
+        file: "content/serve/payment.json"
+        fields:
+          - label: Payment
+            name: payment
+            widget: list
+            fields:
+              - {label: 'Type', name: 'label', widget: 'string'}
+              - {label: 'Name', name: 'value', widget: 'string'}
 
       - label: "Announcements"
         name: "announcements"
