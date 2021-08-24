@@ -7,6 +7,14 @@
       "price": 10500,
       "unit": "package",
       "pic": "/img/pack_reg_a.jpg"
+    },
+    {
+      "name": "Starter New Normal A",
+      "id": "PACK-0002",
+      "desc": "Genuine quality, Best seller",
+      "price": 3498,
+      "pic": "/img/pack_start_a.jpg",
+      "unit": "package"
     }
   ]
 }
