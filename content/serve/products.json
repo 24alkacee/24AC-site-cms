@@ -31,6 +31,22 @@
       "price": 450,
       "pic": "/img/savoune-02.jpg",
       "unit": "box"
+    },
+    {
+      "name": "Restore",
+      "id": "ALKA0004",
+      "desc": "Helps you lose weight, improve digestion, and cleanse the liver.",
+      "price": 750,
+      "pic": "/img/restore-01.jpg",
+      "unit": "box"
+    },
+    {
+      "name": "24-Thirty",
+      "id": "ALKA0005",
+      "desc": "Alcohol-free, fragrance-free, hypoallergenic, and antimicrobial.",
+      "price": 295,
+      "pic": "/img/24-thirty-02.jpg",
+      "unit": "box"
     }
   ]
 }
