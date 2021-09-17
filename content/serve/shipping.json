@@ -12,8 +12,8 @@
     },
     {
       "label": "International",
-      "value": "International",
-      "cost": 0
+      "value": "International (based on per kilo)",
+      "cost": 2500
     }
   ]
 }
