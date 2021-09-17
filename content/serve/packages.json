@@ -1,43 +1,75 @@
 {
   "package": [
     {
-      "name": "Regular New Normal A",
-      "id": "PACK0001",
-      "desc": "+ P8,000 worth discount voucher",
-      "price": 10500,
-      "unit": "package",
-      "pic": "/img/pack_reg_a.jpg"
-    },
-    {
-      "name": "Starter New Normal A",
-      "id": "PACK0002",
-      "desc": "Genuine quality, Best seller",
+      "name": "Starter A",
+      "id": "STRPCKA",
+      "desc": "Product Inclusion:\n2 box 24 Green Restore Juice\n1 box 24 Alkaline C\n1 Savoune\n1 24-Thirty ",
       "price": 3500,
-      "pic": "/img/pack_start_a.jpg",
-      "unit": "package"
+      "unit": "package",
+      "pic": "/img/240784933_362194212278712_2885227094403356342_n.jpg"
     },
     {
-      "name": "Regular New Normal B",
-      "id": "PACK0003",
-      "desc": "+ P8,000 worth discount voucher",
-      "price": 12750,
-      "pic": "/img/pack_reg_b.jpg",
-      "unit": "package"
-    },
-    {
-      "name": "Regular New Normal C",
-      "id": "PACK0004",
-      "desc": "+ P8,000 worth discount voucher",
-      "price": 12750,
-      "pic": "/img/pack_reg_c.jpg",
-      "unit": "package"
-    },
-    {
-      "name": "Starter New Normal C",
-      "id": "PACK0005",
-      "desc": "Genuine quality, Best seller",
+      "name": "Starter B",
+      "id": "STRPCKB",
+      "desc": "Package Inclusion:\n1 box 24 Alkaline C\n1 bottle 24 Alka White (Glutathione)\n1 box 24 Green Restore Juice (12sachets)\n1 box 24 Green Cafe (10sachets)\n1 box 24 Green Choco (10sachets)\n1 box Savoune (3bars)\n1 bottle 24-Thirty ",
       "price": 4500,
-      "pic": "/img/pack_start_c.jpg",
+      "pic": "/img/240735312_294566835771575_257212153011180055_n.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Starter D",
+      "id": "STRPCKB",
+      "desc": "Package Inclusion:\n3 box 24 Green Restore Juice (12sachets each box)\n",
+      "price": 3500,
+      "pic": "/img/starter-d.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper Mini A",
+      "id": "HYPERMINIA",
+      "desc": "Package Inclusion:\n1 box 24 Alkaline C\n1 bottle 24 Alka White (Glutathione)\n1 box 24 Green Restore Juice (12sachets)\n1 box 24 Green Cafe (10sachets)\n1 box 24 Green Choco (10sachets)\n1 box Savoune (3bars)\n***Php5,000 worth of product discount voucher\n",
+      "price": 5000,
+      "pic": "/img/hyperminia.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper Mini D",
+      "id": "HYPMINID",
+      "desc": "Package Inclusion:\n3 box 24 Alkaline C\n2 box 24 Green Restore Juice (12sachets/bx)\n***Php5,000 worth of product discount voucher\n",
+      "price": 5000,
+      "pic": "/img/hyperminid.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper Mini B",
+      "id": "HYPERMINIB",
+      "desc": "Package Inclusion:\n2 box 24 Green Restore Juice (12sachets/bx)\n2 box 24 Green Cafe (10sachets/bx)\n2 box 24 Green Choco (10sachets/bx)\n***Php5,000 worth of product discount voucher\n\n",
+      "price": 5000,
+      "pic": "/img/hyperminib.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper A",
+      "id": "HYPERA",
+      "desc": "Product Inclusion:\nEm-Fly System\n2 box 24 Alkaline C\n7 box 24 Green Restore Juice (12sachets/bx)\n1 bottle 24 Alka White\n1 box 24 Green Cafe (10sachets)\n1 box 24 Green Choco (10sachets)\n2 bx Savoune (3bars/bx)\n2 bottles 24-Thirty \n***Php15,000 worth of product discount voucher\n",
+      "price": 15000,
+      "pic": "/img/hypera.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper B",
+      "id": "HYPERB",
+      "desc": "Package Inclusion:\nEm-Fly System\n10 box 24 Green Restore Juice (12sachets/bx)\n4 box 24 Green Cafe (10sachets/bx)\n4 box 24 Green Choco (10sachets/bx)\n***Php15,000 worth of product discount voucher\n\n",
+      "price": 15000,
+      "pic": "/img/hyperb.jpg",
+      "unit": "package"
+    },
+    {
+      "name": "Hyper C",
+      "id": "HYPERC",
+      "desc": "Product Inclusion:\nEm-Fly System\n11 box 24 Alkaline C\n***Php15,000 worth of product discount voucher\n",
+      "price": 15000,
+      "pic": "/img/hyperc.jpg",
       "unit": "package"
     }
   ]
